@@ -1,0 +1,19 @@
+@import '../../styles/settings/';
+@import '../../styles/mixins/';
+
+.gallery {
+    &__item {
+        background: darken( $vault-purple, 10 );
+        border-radius: 2rem;
+        box-shadow: 0 0 0 rgba( $vault-maroon, 0 ), 0.5rem 0.5rem 0 $vault-green;
+        overflow: hidden;
+        transition-timing-function: ease-in-out;
+        transition-duration: 200ms;
+        transition-property: box-shadow transform;
+    
+        &:hover {
+            box-shadow: 0.5rem 0.5rem 1rem rgba( $color-black, 0.5 ), 1rem 1rem 0 $vault-green;
+            transform: translate( -0.5rem, -0.5rem );
+        }
+    }
+}

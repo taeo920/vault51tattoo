@@ -1,0 +1,24 @@
+.header {
+    @include padding-vertical( 1.5rem );
+    background-color: rgba( $color-black, .35 );
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: $z-high;
+
+    &__container {
+        @include container();
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__logo {
+        @include text-shadow();
+        font-size: 6rem;
+    }
+
+    &__nav {
+        text-transform: uppercase;
+    }
+}

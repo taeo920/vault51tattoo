@@ -1,0 +1,14 @@
+.l-grid {
+    display: grid;
+    gap: $spacing-gutter * 2;
+
+    @include media-breakpoint-up(md) {
+        &[data-columns="2"] {
+            grid-template-columns: repeat( 2, 1fr );
+        }
+
+        &[data-columns="3"] {
+            grid-template-columns: repeat( 3, 1fr );
+        }
+    }
+}

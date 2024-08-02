@@ -1,0 +1,41 @@
+@import '../../styles/settings/';
+@import '../../styles/mixins/';
+
+.artist {
+    position: relative;
+    
+    &__header {
+        display: flex;
+        align-items: last baseline;
+        margin-bottom: 2rem;
+    }
+
+    &__name {
+        @include text-shadow();
+        font-size: 12rem;
+        margin-right: 3rem;
+    }
+
+    &__instagram {
+        display: flex;
+        align-items: center;
+        font-size: 3rem;
+    }
+
+    &__icon {
+        fill: $color-white;
+        width: 3rem;
+        height: 3rem;
+        margin-right: 0.75rem;
+    }
+
+    &__button {
+        margin-left: auto;
+    }
+
+    &__text {
+        display: flex;
+        flex-direction: column;
+        gap: $spacing-gutter;
+    }
+}

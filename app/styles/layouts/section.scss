@@ -1,0 +1,17 @@
+.l-section {
+    position: relative;
+
+    &__container {
+        @include container();
+    }
+
+    &__heading {
+        @include text-shadow();
+        font-size: 6rem;
+        margin-bottom: $spacing-gutter;
+    }
+
+    & + & {
+        margin-top: 6rem;
+    }
+}

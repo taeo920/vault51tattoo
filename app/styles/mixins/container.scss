@@ -1,0 +1,9 @@
+@mixin container() {
+    @include padding-horizontal($spacing-gutter);
+	@include margin-horizontal(auto);
+	width: 100%;
+
+	@include media-breakpoint-up(xxl) {
+		max-width: $breakpoint-max;
+	}
+}

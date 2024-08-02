@@ -1,0 +1,9 @@
+.footer {
+    @include padding-vertical( 5rem );
+
+    &__container {
+        @include container();
+        display: flex;
+        justify-content: space-between;
+    }
+}

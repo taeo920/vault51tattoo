@@ -1,0 +1,46 @@
+.hero {
+    position: relative;
+    margin-bottom: -10rem;
+    height: 60rem;
+
+    &__container {
+        @include container();
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        z-index: $z-medium;
+        height: 100%;
+    }
+
+    &__background {
+        @include position-overlay();
+
+        &::before {
+            @include position-overlay();
+            background: linear-gradient( 120deg, rgba( $vault-orange, .5 ) 25%, rgba( $vault-green, .5 ) 50% );
+        }
+    
+        &::after {
+            @include position-overlay();
+            background: linear-gradient( 0deg, rgba( $color-background, 1 ) 0%, rgba( $color-background, 0 ) 50% );
+        }
+    }
+
+    &__image {
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        max-height: 80rem;
+    }
+
+    &__heading {
+        @include text-shadow();
+        font-size: 12rem;
+    }
+
+    &__sub-heading {
+        text-transform: uppercase;
+    }
+}
