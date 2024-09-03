@@ -36,8 +36,12 @@
     }
 
     &__heading {
-        @include text-shadow();
-        font-size: 12rem;
+        @include heading();
+        font-size: 6rem;
+
+        @include media-breakpoint-up(md) {
+            font-size: 12rem;
+        }
     }
 
     &__sub-heading {

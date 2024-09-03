@@ -1,0 +1,118 @@
+[
+    {
+        "slug" : "cal",
+        "name" : "Cal",
+        "instagram_handle" : "calelleeko",
+        "specialties" : [
+            "B&W Realism",
+            "Color Surrealism",
+            "Neotraditional"
+        ],
+        "short_bio" : "Cal is a versatile tattoo artist with a passion for realism and portraits. With roots in traditional drawing and a love for capturing the unique essence of people, Cal blends expertise in neo-traditional, illustrative, and abstract styles with a deep connection to realism. Whether it’s a detailed portrait or a surreal design, Cal’s art brings life to every tattoo.",
+        "long_bio" : "<p>Cal has been creating art since they could first hold a pencil, always drawn to realism and the intricate details of portrait work. With a natural talent for capturing the unique essence of people, especially those who aren’t often represented in media, Cal’s work breathes life into every piece. After discovering a passion for abstract art, Cal transitioned from a career in nursing to tattooing, never imagining they could achieve the same level of realism in ink as on paper. Starting with neo-traditional designs, Cal gradually built the confidence to tackle portraits and fell in love with the craft all over again. Today, Cal is known for their dynamic range, spanning from neo-traditional and illustrative to abstract color and surrealism, but their heart lies in portrait and realism tattooing. With every tattoo, Cal strives to capture the depth, emotion, and story behind each subject, bringing art to life on skin.</p>",
+        "portrait" : "/cal.jpg",
+        "hero" : "/cal-hero.jpg",
+        "booking_url" : "https://api.leadconnectorhq.com/widget/form/zflv4mmpKnkunMA1KB0Z",
+        "gallery" : [
+            {
+                "largeURL": "/cal-1.jpg",
+                "thumbnailURL": "/cal-1.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-2.jpg",
+                "thumbnailURL": "/cal-2.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-3.jpg",
+                "thumbnailURL": "/cal-3.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-4.jpg",
+                "thumbnailURL": "/cal-4.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-5.jpg",
+                "thumbnailURL": "/cal-5.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-6.jpg",
+                "thumbnailURL": "/cal-6.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-7.jpg",
+                "thumbnailURL": "/cal-7.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-8.jpg",
+                "thumbnailURL": "/cal-8.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-9.jpg",
+                "thumbnailURL": "/cal-9.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/cal-10.jpg",
+                "thumbnailURL": "/cal-10.jpg",
+                "width": 768,
+                "height": 1024
+            }
+        ]
+    },
+    {
+        "slug" : "nikki",
+        "name" : "Nikki",
+        "instagram_handle" : "nikki_corsair",
+        "specialties" : [
+            "Colour Illustration, Pop Culture (cartoons/anime/videogames), Kawaii"
+        ],
+        "short_bio" : "Nikki is an illustrator and tattoo artist with a passion for bold color and playful designs. Specializing in anime, pop culture, and cute creations with a hint of spookiness, Nikki brings a vibrant and fun energy to every piece they create.",
+        "long_bio" : "<p>Nikki is a talented illustrator and tattoo artist whose work radiates bold color, playful energy, and a love for all things cute with a touch of the spooky. With a foundation in anime and pop culture, Nikki’s designs are a vibrant blend of striking line work, expressive characters, and imaginative storytelling. Specializing in pieces that capture the charm of kawaii aesthetics while sometimes incorporating a dash of eerie whimsy, Nikki brings a unique flair to each creation. Whether it’s a colorful anime-inspired portrait, a piece that draws on beloved pop culture, or an original character design, Nikki’s art is all about embracing fun, creativity, and the joy of self-expression. With every project, Nikki aims to craft tattoos that not only showcase their artistic style but also connect deeply with clients, turning ideas into bold, lively designs that pop on the skin.</p>",
+        "portrait" : "/nikki.jpg",
+        "hero" : "/nikki-hero.jpg",
+        "booking_url" : "https://api.leadconnectorhq.com/widget/form/Oc2Ia86WBgr6JMTTFvAT",
+        "gallery" : [
+            {
+                "largeURL": "/nikki-1.jpg",
+                "thumbnailURL": "/nikki-1.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-2.jpg",
+                "thumbnailURL": "/nikki-2.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-3.jpg",
+                "thumbnailURL": "/nikki-3.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-4.jpg",
+                "thumbnailURL": "/nikki-4.jpg",
+                "width": 768,
+                "height": 1024
+            }
+        ]
+    }
+]

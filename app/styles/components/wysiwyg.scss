@@ -1,0 +1,19 @@
+.wysiwyg {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+
+    h1, h2, h3, h4, h5, h6 {
+        @include heading();
+        margin-bottom: -1.5rem;
+    }
+
+    h3 { font-size: 3.2rem; }
+    h4 { font-size: 2.8rem; }
+    h5 { font-size: 2.4rem; }
+    h6 { font-size: 2rem; }
+
+    ul {
+        list-style: disc inside;
+    }
+}

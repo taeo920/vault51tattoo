@@ -6,7 +6,7 @@
     }
 
     &__heading {
-        @include text-shadow();
+        @include heading();
         font-size: 6rem;
         margin-bottom: $spacing-gutter;
     }

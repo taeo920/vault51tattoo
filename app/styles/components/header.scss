@@ -14,7 +14,7 @@
     }
 
     &__logo {
-        @include text-shadow();
+        @include heading();
         font-size: 6rem;
     }
 

@@ -5,6 +5,8 @@
     background: darken( $vault-purple, 10 );
     border-radius: 2rem;
     box-shadow: 0 0 0 rgba( $vault-maroon, 0 ), 0.5rem 0.5rem 0 $vault-green;
+    display: flex;
+    flex-direction: column;
     overflow: hidden;
     transition-timing-function: ease-in-out;
     transition-duration: 200ms;
@@ -18,16 +20,26 @@
     &__text {
         display: flex;
         flex-direction: column;
-        gap: 1.5rem;
+        flex-grow: 1;
+        gap: 2rem;
         margin-top: -6rem;
         padding: $spacing-gutter;
         position: relative;
+
+        @include media-breakpoint-up(md) {
+            margin-top: -8rem;
+        }
     }
 
     &__name {
-        @include text-shadow();
+        @include heading();
         font-size: 6rem;
         margin-right: 2rem;
+        margin-bottom: 1rem;
+
+        @include media-breakpoint-up(md) {
+            font-size: 8rem;
+        }
     }
 
     &__instagram {
@@ -44,6 +56,7 @@
     }
 
     &__buttons {
+        margin-top: auto;
         display: flex;
         gap: $spacing-gutter;
     }

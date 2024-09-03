@@ -5,11 +5,15 @@
     display: inline-block;
     font-weight: 300;
     font-size: 1.6rem;
-    padding: 1.5rem 3rem;
+    padding: 1.5rem;
     text-transform: uppercase;
     transition-timing-function: ease-in-out;
     transition-duration: 200ms;
     transition-property: background-color;
+
+    @include media-breakpoint-up(md) {
+        padding: 1.5rem 3rem;
+    }
 
     &--alt {
         background: $vault-maroon;

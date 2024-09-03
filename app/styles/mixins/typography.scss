@@ -1,0 +1,4 @@
+@mixin heading() {
+    @include text-shadow();
+    font-family: $font-family-heading;
+}

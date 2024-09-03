@@ -6,20 +6,28 @@
     
     &__header {
         display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
         align-items: last baseline;
         margin-bottom: 2rem;
     }
 
     &__name {
-        @include text-shadow();
-        font-size: 12rem;
-        margin-right: 3rem;
+        @include heading();
+        font-size: 6rem;
+        margin-right: 1.5rem;
+
+        @include media-breakpoint-up(sm) {
+            font-size: 12rem;
+            margin-right: 3rem;
+        }
     }
 
     &__instagram {
         display: flex;
         align-items: center;
         font-size: 3rem;
+        margin-right: 3rem;
     }
 
     &__icon {
@@ -30,7 +38,11 @@
     }
 
     &__button {
-        margin-left: auto;
+        @include media-breakpoint-up(sm) {
+            position: relative;
+            bottom: 1.5rem;
+            margin-left: auto;
+        }
     }
 
     &__text {

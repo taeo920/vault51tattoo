@@ -6,6 +6,8 @@ import 'photoswipe/style.css';
 import './style.scss';
 
 export default function Gallery(props) {
+  console.log(props);
+
   useEffect(() => {
     let lightbox = new PhotoSwipeLightbox({
       gallery: '#' + props.galleryID,
@@ -21,7 +23,7 @@ export default function Gallery(props) {
   }, []);
 
   return (
-    <div className="l-grid gallery" id={props.galleryID} data-columns="3">
+    <div className="l-grid gallery" id={props.galleryID} data-columns="4">
       {props.images.map((image, index) => (
         <a
           className="gallery__item"
