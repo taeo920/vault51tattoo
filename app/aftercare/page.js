@@ -35,7 +35,7 @@ export default function Aftercare() {
             <p>When your tattoo is clean and hydrated, do not re-bandage it, as this can keep the area too wet and increase the risk of infection.</p>
 
             <h3>Do Not Expose Your Skin to the Sun</h3>
-            <p>Avoid direct sunlight on your tattoo for at least 2 weeks. If you need to be outside for extended periods, wear clothing that covers the new tattoo. Once your tattoo is completely healed, regularly apply sunblock to protect it from the sun’s rays.</p>
+            <p>Avoid direct sunlight on your tattoo for at least 2 weeks. If you need to be outside for extended periods, wear clothing that covers the new tattoo. Once your tattoo is completely healed, regularly apply sunblock to protect it from the sun&apos;s rays.</p>
 
             <h3>Avoid Strenuous Activity or Workouts</h3>
             <p>You should wait at least 24-48 hours before engaging in strenuous physical activity. After working out, shower as soon as possible and follow your cleaning and moisturizing routine to prevent any problems.</p>
@@ -44,12 +44,12 @@ export default function Aftercare() {
             <p>Tight clothing can rub against your skin, cause chafing, pull off scabs, or stick to lotion or gels, leading to more pain or discomfort. Scabs are crucial for healing, so it's important to wear breathable clothing that helps keep them intact. As your tattoo heals, opt for loose-fitting clothes made from lightweight, breathable fabrics to support proper healing. Avoid dirty, sweaty, or itchy clothing, as they can cause complications in the healing process.</p>
 
             <h3>Leave Your Scabs Alone</h3>
-            <p>Just as with other wounds, picking at or prematurely removing a scab can pull out the ink and leave a scar. When your tattoo starts to dry out, resist the urge to scratch it. Instead, apply moisturizer and distract yourself. As long as you don’t pick at the scabs, your tattoo will heal beautifully</p>
+            <p>Just as with other wounds, picking at or prematurely removing a scab can pull out the ink and leave a scar. When your tattoo starts to dry out, resist the urge to scratch it. Instead, apply moisturizer and distract yourself. As long as you don&apos;t pick at the scabs, your tattoo will heal beautifully</p>
 
-            <h3>Don’t Go Swimming</h3> 
+            <h3>Don&apos;t Go Swimming</h3> 
             <p>Showering is fine, but avoid soaking your tattoo for at least 2 weeks. This means no swimming, baths, or submerging your tattoo in water for extended periods. Soaking can damage your tattoo and increase the risk of infection from bacteria in the water.</p>
 
-            <h3>Don’t Shave After Your Tattoo</h3>
+            <h3>Don&apos;t Shave After Your Tattoo</h3>
             <p>Using a razor or blade on a new tattoo can cause significant damage, such as cutting the skin, peeling away scabs, or disrupting the fresh ink. Avoid shaving the area until it is fully healed.</p>
 
             <h3>What Are the Signs of an Infected Tattoo?</h3>
@@ -57,7 +57,7 @@ export default function Aftercare() {
             <p>Watch for these symptoms:</p>
             <ul>
               <li>Rash or hot, raised skin around the tattoo</li>
-              <li>Swelling (some swelling is normal, but if it worsens or isn’t relieved by ice, consult a doctor)</li>
+              <li>Swelling (some swelling is normal, but if it worsens or isn&apos;t relieved by ice, consult a doctor)</li>
               <li>Fever</li>
               <li>Increased pain (some pain is normal, but worsening pain could indicate an infection)</li>
               <li>Chills and sweats</li>
