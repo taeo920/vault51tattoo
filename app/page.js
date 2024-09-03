@@ -29,7 +29,7 @@ export default function Home() {
       <section className="l-section">
         <div className="l-section__container">
           <h2 className="l-section__heading">Location</h2>
-          <iframe class="map" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA_QLMMxNPZum-x-F0h7aaBzjKaIc3WdvU&q=Vault+51+tattoo+collective"></iframe>
+          <iframe className="map" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA_QLMMxNPZum-x-F0h7aaBzjKaIc3WdvU&q=Vault+51+tattoo+collective"></iframe>
         </div>
       </section>
     </div>

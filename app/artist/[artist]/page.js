@@ -5,23 +5,14 @@ import Gallery from '../../components/gallery';
 import Artists from '@/public/artists.json';
 import './style.scss';
 
-const images = [
-  {
-      "largeURL": "/cal.jpg",
-      "thumbnailURL": "/cal.jpg",
-      "width": 900,
-      "height": 1200
-  },
-  {
-      "largeURL": "/cal.jpg",
-      "thumbnailURL": "/cal.jpg",
-      "width": 900,
-      "height": 1200
-  },
-];
-
 async function getArtistBySlug( slug ) {
   return Artists.find( ( artist ) => artist.slug === slug ) || null;
+}
+
+export async function generateStaticParams() {
+  return Artists.map( ( artist ) => ({
+    slug: artist.slug,
+  }));
 }
 
 export default function Artist({ params }) {
