@@ -11,7 +11,7 @@ async function getArtistBySlug( slug ) {
 
 export async function generateStaticParams() {
   return Artists.map( ( artist ) => ({
-    slug: artist.slug,
+    artist: artist.slug,
   }));
 }
 
