@@ -6,8 +6,6 @@ import 'photoswipe/style.css';
 import './style.scss';
 
 export default function Gallery(props) {
-  console.log(props);
-
   useEffect(() => {
     let lightbox = new PhotoSwipeLightbox({
       gallery: '#' + props.galleryID,
