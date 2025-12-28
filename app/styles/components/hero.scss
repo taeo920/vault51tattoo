@@ -28,7 +28,8 @@
         }
     }
 
-    &__image {
+    &__image,
+    &__video {
         object-fit: cover;
         width: 100%;
         height: 100%;

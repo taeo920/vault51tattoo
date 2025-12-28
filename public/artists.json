@@ -114,5 +114,119 @@
                 "height": 1024
             }
         ]
+    },
+    {
+        "slug" : "destiny",
+        "name" : "Destiny",
+        "instagram_handle" : "Shimmerxsmoke",
+        "specialties" : [
+            "Fine Line, Illustrative Black and Gray and Modern Illustrative Color"
+        ],
+        "short_bio": "Destiny is a well-rounded artist whose illustrative style blends fine line detail, soft gothic influences, soft palettes, and storybook charm to create timeless, custom designs that flow naturally with the body.",
+        "long_bio": "<p>Destiny (Shimmer) is a Maryland-based tattoo artist specializing in fine line, illustrative, and illustrative color tattooing.</p><p>Her style blends soft gothic influences with clean linework, decorative elements, and emotionally driven subject matter to create tattoos that feel timeless, intentional, and personal. Her color work is approached with controlled, thoughtful palettes and balanced contrast, allowing color to enhance the artwork without overpowering it. Whether working in black and gray or color, her goal is to create meaningful, custom designs that flow naturally with the body and age beautifully over time.</p><p>Her favorite subject matters includes feminine faces, cute and cuddly critters, and jewelry-inspired elements, as well as darker themes such as horror icons and gritty imagery.</p><p>Outside the studio, Destiny is a mom, a wife, professional couch-rotter, energy drink enthusiast, and frequent victim of conspiracy theory rabbit holes.</p><p>Come for the tattoo, stay for the dark humor, great conversation, and terrible life advice. 🩷✨</p>",
+        "portrait" : "/destiny.jpg",
+        "hero" : "/destiny-hero.jpg",
+        "booking_url" : "https://venue.ink/@shimmerxsmoke",
+        "gallery" : [
+            {
+                "largeURL": "/destiny-1.jpg",
+                "thumbnailURL": "/destiny-1.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-2.jpg",
+                "thumbnailURL": "/destiny-2.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-4.jpg",
+                "thumbnailURL": "/destiny-4.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-5.jpg",
+                "thumbnailURL": "/destiny-5.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-6.jpg",
+                "thumbnailURL": "/destiny-6.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-7.jpg",
+                "thumbnailURL": "/destiny-7.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-8.jpg",
+                "thumbnailURL": "/destiny-8.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-9.jpg",
+                "thumbnailURL": "/destiny-9.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-10.jpg",
+                "thumbnailURL": "/destiny-10.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/destiny-11.jpg",
+                "thumbnailURL": "/destiny-11.jpg",
+                "width": 768,
+                "height": 1024
+            }
+        ]
+    },
+    {
+        "slug" : "aaliyah",
+        "name" : "Aaliyah",
+        "instagram_handle" : "crea.tiveinks",
+        "specialties" : [
+            "Black and Gray Realism/Illustration, Pop Culture, and Fineline"
+        ],
+        "short_bio": "Aaliyah is a tattoo artist who merges the precision of graphite realism with the art of tattooing. Specializing in black and gray realism, pop culture, and fine line work, she creates detailed, expressive pieces with a clean and timeless feel.",
+        "long_bio": "<p>Aaliyah is a dedicated tattoo artist whose work bridges the refined precision of graphite realism with the lasting artistry of tattooing. With a strong focus on black and gray realism and illustrative techniques, she is drawn to capturing depth, texture, and emotion in every piece she creates. From striking portraiture and pop culture–inspired designs to delicate botanical fine line work and custom illustrative tattoos, Aaliyah approaches each project with careful attention to detail and composition.</p><p>As she continues to build her portfolio, Aaliyah is driven by a passion for realism, clean line work, and creating tattoos that feel both expressive and intentional. Every session is an opportunity to collaborate closely with clients, translating their ideas into thoughtfully crafted designs that are elegant, detailed, and made to stand the test of time.</p>",
+        "portrait" : "/aaliyah.jpg",
+        "hero" : "/aaliyah-hero.jpg",
+        "booking_url" : "https://www.instagram.com/crea.tiveinks?igsh=MjkzZTNob3lvaGV4&utm_source=qr",
+        "gallery" : [
+            {
+                "largeURL": "/aaliyah-1.jpg",
+                "thumbnailURL": "/aaliyah-1.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/aaliyah-2.jpg",
+                "thumbnailURL": "/aaliyah-2.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/aaliyah-3.jpg",
+                "thumbnailURL": "/aaliyah-3.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/aaliyah-4.jpg",
+                "thumbnailURL": "/aaliyah-4.jpg",
+                "width": 768,
+                "height": 1024
+            }
+        ]
     }
 ]
