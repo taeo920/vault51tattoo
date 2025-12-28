@@ -3,15 +3,43 @@
     gap: $spacing-gutter * 2;
 
     @include media-breakpoint-up(md) {
-        &[data-columns="2"] {
+        &[data-columns-md="2"] {
             grid-template-columns: repeat( 2, 1fr );
         }
 
-        &[data-columns="3"] {
+        &[data-columns-md="3"] {
             grid-template-columns: repeat( 3, 1fr );
         }
 
-        &[data-columns="4"] {
+        &[data-columns-md="4"] {
+            grid-template-columns: repeat( 4, 1fr );
+        }
+    }
+
+    @include media-breakpoint-up(lg) {
+        &[data-columns-lg="2"] {
+            grid-template-columns: repeat( 2, 1fr );
+        }
+
+        &[data-columns-lg="3"] {
+            grid-template-columns: repeat( 3, 1fr );
+        }
+
+        &[data-columns-lg="4"] {
+            grid-template-columns: repeat( 4, 1fr );
+        }
+    }
+
+    @include media-breakpoint-up(xl) {
+        &[data-columns-xl="2"] {
+            grid-template-columns: repeat( 2, 1fr );
+        }
+
+        &[data-columns-xl="3"] {
+            grid-template-columns: repeat( 3, 1fr );
+        }
+
+        &[data-columns-xl="4"] {
             grid-template-columns: repeat( 4, 1fr );
         }
     }

@@ -18,7 +18,7 @@ export default function Home() {
       <section className="l-section">
         <div className="l-section__container">
           <h2 className="l-section__heading">Artists</h2>
-          <div className="l-grid">
+          <div className="l-grid" data-columns-md="2" data-columns-xl="3">
             {Artists.map((artist, index) => (
               <Card artist={artist} key={index} />
             ))}
