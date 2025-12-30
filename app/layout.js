@@ -7,10 +7,13 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  const isHome = typeof window !== 'undefined' ? window.location.pathname === '/' : false;
+  const headerClass = isHome ? 'header header--home' : 'header';
+
   return (
     <html lang="en">
       <body>
-        <header className="header">
+        <header className={headerClass}>
           <div className="header__container">
             <Link className="header__logo" href="/"><h1>Vault 51</h1></Link>
             <nav className="header__nav"></nav>

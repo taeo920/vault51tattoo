@@ -6,6 +6,10 @@
     width: 100%;
     z-index: $z-high;
 
+    &--home {
+        display: none;
+    }
+
     &__container {
         @include container();
         display: flex;

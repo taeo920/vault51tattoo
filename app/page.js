@@ -7,11 +7,11 @@ export default function Home() {
     <div className="page page--home">
       <section className="hero">
         <div className="hero__container">
-          <h2 className="hero__heading">Tattoo Collective</h2>
+          <h1 className="hero__heading">Vault 51</h1>
           <span className="hero__sub-heading">Finksburg, Maryland</span>
         </div>
         <div className="hero__background">
-          <video className="hero__video is-visible" src="/shop.mp4" poster="/shop.jpg" autoPlay muted loop width="1440" height="810"></video>
+          <video className="hero__video" src="/shop.mp4" poster="/shop.jpg" autoplay playsinline muted loop width="1440" height="810"></video>
         </div>
       </section>
 
