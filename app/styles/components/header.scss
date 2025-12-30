@@ -15,12 +15,8 @@
 
     &__logo {
         @include heading();
-        font-size: 4rem;
+        font-size: 6rem;
         transition: opacity .3s ease-in-out, font-size .3s ease-in-out;
-
-        @include media-breakpoint-up(md) {
-            font-size: 6rem;
-        }
 
         .header--home:not(.header--scrolled) & {
             font-size: 1rem;
