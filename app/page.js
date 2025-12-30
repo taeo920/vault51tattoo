@@ -11,7 +11,7 @@ export default function Home() {
           <span className="hero__sub-heading">Finksburg, Maryland</span>
         </div>
         <div className="hero__background">
-          <video className="hero__video" src="/shop.mp4" poster="/shop.jpg" autoPlay playsinline muted loop width="1440" height="810"></video>
+          <video className="hero__video" src="/shop.mp4" poster="/shop.jpg" autoPlay playsInline muted loop width="1440" height="810"></video>
         </div>
       </section>
 
