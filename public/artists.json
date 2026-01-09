@@ -90,26 +90,44 @@
         "booking_url" : "https://docs.google.com/forms/d/e/1FAIpQLScqudRBqp44KuSOFbSwobpfut8iWjonncPqrUzN5QIClU7aOQ/viewform?usp=preview",
         "gallery" : [
             {
-                "largeURL": "/nikki-1.jpg",
-                "thumbnailURL": "/nikki-1.jpg",
+                "largeURL": "/nikki-1.png",
+                "thumbnailURL": "/nikki-1.png",
                 "width": 768,
                 "height": 1024
             },
             {
-                "largeURL": "/nikki-2.jpg",
-                "thumbnailURL": "/nikki-2.jpg",
+                "largeURL": "/nikki-2.png",
+                "thumbnailURL": "/nikki-2.png",
                 "width": 768,
                 "height": 1024
             },
             {
-                "largeURL": "/nikki-3.jpg",
-                "thumbnailURL": "/nikki-3.jpg",
+                "largeURL": "/nikki-3.png",
+                "thumbnailURL": "/nikki-3.png",
                 "width": 768,
                 "height": 1024
             },
             {
-                "largeURL": "/nikki-4.jpg",
-                "thumbnailURL": "/nikki-4.jpg",
+                "largeURL": "/nikki-4.png",
+                "thumbnailURL": "/nikki-4.png",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-5.png",
+                "thumbnailURL": "/nikki-5.png",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-6.png",
+                "thumbnailURL": "/nikki-6.png",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-7.png",
+                "thumbnailURL": "/nikki-7.png",
                 "width": 768,
                 "height": 1024
             }
