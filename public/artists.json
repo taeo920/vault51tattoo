@@ -130,6 +130,18 @@
                 "thumbnailURL": "/nikki-7.png",
                 "width": 768,
                 "height": 1024
+            },
+            {
+                "largeURL": "/nikki-7.png",
+                "thumbnailURL": "/nikki-7.png",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/nikki-8.png",
+                "thumbnailURL": "/nikki-8.png",
+                "width": 768,
+                "height": 1024
             }
         ]
     },
@@ -203,45 +215,6 @@
             {
                 "largeURL": "/destiny-11.jpg",
                 "thumbnailURL": "/destiny-11.jpg",
-                "width": 768,
-                "height": 1024
-            }
-        ]
-    },
-    {
-        "slug" : "aaliyah",
-        "name" : "Aaliyah",
-        "instagram_handle" : "crea.tiveinks",
-        "specialties" : [
-            "Black and Gray Realism/Illustration, Pop Culture, and Fineline"
-        ],
-        "short_bio": "Aaliyah is a tattoo artist who merges the precision of graphite realism with the art of tattooing. Specializing in black and gray realism, pop culture, and fine line work, she creates detailed, expressive pieces with a clean and timeless feel.",
-        "long_bio": "<p>Aaliyah is a dedicated tattoo artist whose work bridges the refined precision of graphite realism with the lasting artistry of tattooing. With a strong focus on black and gray realism and illustrative techniques, she is drawn to capturing depth, texture, and emotion in every piece she creates. From striking portraiture and pop culture–inspired designs to delicate botanical fine line work and custom illustrative tattoos, Aaliyah approaches each project with careful attention to detail and composition.</p><p>As she continues to build her portfolio, Aaliyah is driven by a passion for realism, clean line work, and creating tattoos that feel both expressive and intentional. Every session is an opportunity to collaborate closely with clients, translating their ideas into thoughtfully crafted designs that are elegant, detailed, and made to stand the test of time.</p>",
-        "portrait" : "/aaliyah.jpg",
-        "hero" : "/aaliyah-hero.jpg",
-        "booking_url" : "https://www.instagram.com/crea.tiveinks?igsh=MjkzZTNob3lvaGV4&utm_source=qr",
-        "gallery" : [
-            {
-                "largeURL": "/aaliyah-1.jpg",
-                "thumbnailURL": "/aaliyah-1.jpg",
-                "width": 768,
-                "height": 1024
-            },
-            {
-                "largeURL": "/aaliyah-2.jpg",
-                "thumbnailURL": "/aaliyah-2.jpg",
-                "width": 768,
-                "height": 1024
-            },
-            {
-                "largeURL": "/aaliyah-3.jpg",
-                "thumbnailURL": "/aaliyah-3.jpg",
-                "width": 768,
-                "height": 1024
-            },
-            {
-                "largeURL": "/aaliyah-4.jpg",
-                "thumbnailURL": "/aaliyah-4.jpg",
                 "width": 768,
                 "height": 1024
             }
