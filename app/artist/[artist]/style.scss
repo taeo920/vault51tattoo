@@ -23,20 +23,6 @@
         }
     }
 
-    &__instagram {
-        display: flex;
-        align-items: center;
-        font-size: 2.4rem;
-        margin-right: 3rem;
-    }
-
-    &__icon {
-        fill: $color-white;
-        width: 3rem;
-        height: 3rem;
-        margin-right: 0.75rem;
-    }
-
     &__button {
         @include media-breakpoint-up(sm) {
             position: relative;
