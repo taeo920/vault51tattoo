@@ -230,5 +230,132 @@
                 "height": 1024
             }
         ]
+    },
+    {
+        "slug" : "hailey",
+        "name" : "Hailey",
+        "social_media" : {
+            "instagram" : "drip.n.dotstattoo"
+        },
+        "specialties" : [
+            "Black & Grey",
+            "Stippling/Dotwork",
+            "Illustrative",
+            "Blackwork"
+        ],
+        "short_bio" : "Hailey is a black and grey tattoo artist specializing in stippling, illustrative realism, and blackwork. She enjoys creating pieces with strong contrast, clean detail, and a balance of bold, organic, and abstract elements. Her work ranges from darker, more detailed concepts to softer, more delicate designs, while maintaining a cohesive black and grey style.",
+        "long_bio" : "<p>Hailey is a black and grey tattoo artist specializing in stippling, blackwork, and illustrative realism. Art has been a part of Hailey’s life from a young age, helping shape her eye for contrast, texture, and composition—skills she now brings into her tattoo work on skin.</p><p>Her style blends bold, high-contrast imagery with softer, organic elements, often combining skulls, florals, and abstract or illustrative details to create pieces that feel balanced and intentional. She focuses on clean application, smooth shading, and long-lasting results, using stippling and blackwork techniques to build depth and texture.</p><p>Hailey enjoys working across a range of styles—from darker, more detailed concepts to softer or more delicate designs—while maintaining a cohesive black and grey aesthetic. Her goal is to create tattoos that not only look strong when fresh, but heal clean and hold their detail over time.</p>",
+        "portrait" : "/hailey.jpg",
+        "hero" : "/hailey-hero.jpg",
+        "gallery" : [
+            {
+                "largeURL": "/hailey-1.jpg",
+                "thumbnailURL": "/hailey-1.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-2.jpg",
+                "thumbnailURL": "/hailey-2.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-3.jpg",
+                "thumbnailURL": "/hailey-3.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-4.jpg",
+                "thumbnailURL": "/hailey-4.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-5.jpg",
+                "thumbnailURL": "/hailey-5.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-6.jpg",
+                "thumbnailURL": "/hailey-6.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-7.jpg",
+                "thumbnailURL": "/hailey-7.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-8.jpg",
+                "thumbnailURL": "/hailey-8.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-9.jpg",
+                "thumbnailURL": "/hailey-9.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-10.jpg",
+                "thumbnailURL": "/hailey-10.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-11.jpg",
+                "thumbnailURL": "/hailey-11.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-12.jpg",
+                "thumbnailURL": "/hailey-12.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-13.jpg",
+                "thumbnailURL": "/hailey-13.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-14.jpg",
+                "thumbnailURL": "/hailey-14.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-15.jpg",
+                "thumbnailURL": "/hailey-15.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-16.jpg",
+                "thumbnailURL": "/hailey-16.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-17.jpg",
+                "thumbnailURL": "/hailey-17.jpg",
+                "width": 768,
+                "height": 1024
+            },
+            {
+                "largeURL": "/hailey-18.jpg",
+                "thumbnailURL": "/hailey-18.jpg",
+                "width": 768,
+                "height": 1024
+            }
+        ]
     }
 ]
